@@ -6,9 +6,9 @@ Each assignment demonstrates core OS concepts such as **process creation**, **IP
 ---
 
 ## 👤 Student Information
-- **Name:** Aman Kumar Singh  
+- **Name:** Aniket Yadav 
 - **Program:** B.Tech CSE (Data Science)  
-- **Enrollment No:** 2301420040  
+- **Enrollment No:** 2301420039 
 
 ---
 
