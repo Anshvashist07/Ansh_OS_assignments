@@ -6,9 +6,9 @@ Each assignment demonstrates core OS concepts such as **process creation**, **IP
 ---
 
 ## 👤 Student Information
-- **Name:** Aniket Yadav 
+- **Name:** Ansh vashist 
 - **Program:** B.Tech CSE (Data Science)  
-- **Enrollment No:** 2301420039 
+- **Enrollment No:** 2301420019
 
 ---
 
